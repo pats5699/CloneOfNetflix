@@ -5,3 +5,16 @@ Netflix clone is created in android with MVVM architecture. It uses APIs from TM
 
 https://user-images.githubusercontent.com/34768047/227797011-03dd1fcd-0e7a-41f1-9510-7e5177a1aab0.mp4
 
+### Technologies used
+
+-Consumption of The MovieDatabase API
+
+-Used Room library
+
+-MVVM
+
+-Solid
+
+-Retrofit
+
+-Dependency injection with Koin
